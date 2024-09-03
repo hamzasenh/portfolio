@@ -39,7 +39,7 @@ export const experiencesData = [
     description:
       "I completed a 4-month internship at Molengeek as a full-stack developer.",
     icon: React.createElement(LuGraduationCap),
-    date: "2021 - present",
+    date: "Feb 2023 - May 2023",
   },
   {
     title: "Graduated from Haute École Francisco Ferrer",
