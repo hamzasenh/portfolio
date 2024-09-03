@@ -24,7 +24,7 @@ export default function About() {
         I stay constantly informed of new trends and train myself in the latest technologies to deliver 
         exceptional user experiences. I am <span className="font-semibold">motivated</span> to gain new experiences. 
         My <span className="font-semibold">creative</span> approach and <span className="font-semibold">attention to detail</span> 
-        are reflected in my work. I am <span className="font-semibold">confident</span> that my skills and 
+        {" "}are reflected in my work. I am <span className="font-semibold">confident</span> that my skills and 
         passion will make a positive contribution.{" "}
       </p>
     </motion.section>
