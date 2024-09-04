@@ -42,12 +42,12 @@ export const experiencesData = [
     date: "Feb 2023 - May 2023",
   },
   {
-    title: "Graduated from Haute École Francisco Ferrer",
+    title: "Haute École Francisco Ferrer",
     location: "Brussels",
     description:
-      "I graduated from Haute Ecole Fransico Ferrer in Web infography. I immediately found a job as a full-stack developer.",
+      "I studied at Haute Ecole Fransico Ferrer in Web infography. I immediately found a job as a full-stack developer.",
     icon: React.createElement(LuGraduationCap),
-    date: "2023",
+    date: "2108 - 2023",
   },
   {
     title: "Full-stack Developer",
