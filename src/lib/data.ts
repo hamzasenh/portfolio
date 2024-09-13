@@ -33,6 +33,15 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+  
+  {
+    title: "Haute École Francisco Ferrer",
+    location: "Brussels",
+    description:
+      "I studied at Haute Ecole Fransico Ferrer in Web infography. I immediately found a job as a full-stack developer.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2018 - 2024",
+  },
   {
     title: "Internship-Full-Stack Developer at Molengeek",
     location: "Brussels",
@@ -41,23 +50,6 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "Feb 2023 - May 2023",
   },
-  {
-    title: "Haute École Francisco Ferrer",
-    location: "Brussels",
-    description:
-      "I studied at Haute Ecole Fransico Ferrer in Web infography. I immediately found a job as a full-stack developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2108 - 2023",
-  },
-  {
-    title: "Full-stack Developer",
-    location: "Brussels",
-    description:
-      "I worked as a full-stack developer for 1 year at Molengeek Pro.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2024",
-  },
-  
 ] as const;
 
 export const projectsData = [
