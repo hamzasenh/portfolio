@@ -4,6 +4,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import mybooks from "../../public/mybooks.png";
 import ICI from "../../public/ICI.png";
 import marvel from "../../public/marvel.png";
+import todo from "../../public/todo.png";
 
 export const links = [
   {
@@ -53,6 +54,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "To-do it!",
+    description:
+      "Creation of a simple To-Do List application built with React and Vite. It allows users to add, view, and delete tasks in an intuitive way.",
+    tags: ["React", "Vite.JS"],
+    imageUrl: todo,
+    url: "https://todoit-hs.vercel.app/",
+  },
   {
     title: "My Books",
     description:
