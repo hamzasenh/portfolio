@@ -5,6 +5,7 @@ import mybooks from "../../public/mybooks.png";
 import ICI from "../../public/ICI.png";
 import marvel from "../../public/marvel.png";
 import todo from "../../public/todo.png";
+import karakter from "../../public/karakter.png";
 
 export const links = [
   {
@@ -54,6 +55,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Karakter",
+    description:
+      "Design of a web TV wireframe, along with the visual identity and brand guidelines for the independent electronic music label Karakter.",
+    tags: ["Adobe XD", "UX/UI Design"],
+    imageUrl: karakter,
+    url: "https://xd.adobe.com/view/c130df2b-a850-46c9-9a32-12879f22fd76-9463/",
+  },
   {
     title: "To-do it!",
     description:
