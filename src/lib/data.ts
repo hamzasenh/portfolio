@@ -45,7 +45,7 @@ export const experiencesData = [
     date: "2018 - 2024",
   },
   {
-    title: "Internship-Full-Stack Developer at Molengeek",
+    title: "Internship-Full-Stack Developer at UrbanTech(Molengeek)",
     location: "Brussels",
     description:
       "I completed a 4-month internship at Molengeek as a full-stack developer.",
