@@ -48,7 +48,7 @@ export const experiencesData = [
     title: "Internship-Full-Stack Developer at UrbanTech(Molengeek)",
     location: "Brussels",
     description:
-      "I completed a 4-month internship at Molengeek as a full-stack developer.",
+      "I completed a 4-month internship at UrbanTech as a full-stack developer.",
     icon: React.createElement(LuGraduationCap),
     date: "Feb 2023 - May 2023",
   },
