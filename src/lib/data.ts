@@ -6,6 +6,8 @@ import ICI from "../../public/ICI.png";
 import marvel from "../../public/marvel.png";
 import todo from "../../public/todo.png";
 import karakter from "../../public/karakter.png";
+import radialec from "../../public/radialec.png";
+
 
 export const links = [
   {
@@ -42,19 +44,33 @@ export const experiencesData = [
     description:
       "I studied at Haute Ecole Fransico Ferrer in Web infography. I immediately found a job as a full-stack developer.",
     icon: React.createElement(LuGraduationCap),
-    date: "2018 - 2024",
+    date: "2018 - 2025",
   },
   {
-    title: "Internship-Full-Stack Developer at UrbanTech(Molengeek)",
+    title: "Internship-Front-end Developer at UrbanTech(Molengeek)",
     location: "Brussels",
     description:
       "I completed a 4-month internship at UrbanTech as a full-stack developer.",
     icon: React.createElement(LuGraduationCap),
     date: "Feb 2023 - May 2023",
   },
+  {
+    title: "IT Support at Mission Locale de Molenbeek",
+    location: "Brussels",
+    icon: React.createElement(CgWorkAlt),
+    date: "Jan 2025 - Currently",
+  },
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Radialec",
+    description:
+      "Creation of the brand identity and website for Radialec, an independent electrician and heating specialist.",
+    tags: ["React", "Next.js", "TypeScript", "Tailwind"],
+    imageUrl: radialec,
+    url: "https://www.radialec.be/",
+  },
   {
     title: "Karakter",
     description:

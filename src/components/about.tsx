@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a <span className="font-semibold">Full-stack Developer</span> passionate 
+        I am a <span className="font-semibold">Graphic & Front-end Developer</span> passionate 
         about web development and UX/UI. As a <span className="font-semibold">self-taught</span> professional, 
         I stay constantly informed of new trends and train myself in the latest technologies to deliver 
         exceptional user experiences. I am <span className="font-semibold">motivated</span> to gain new experiences. 
