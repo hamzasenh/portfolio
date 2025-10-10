@@ -57,7 +57,7 @@ export const experiencesData = [
   {
     title: "IT Support at Mission Locale de Molenbeek",
     location: "Brussels",
-    description:"",
+    description:".",
     icon: React.createElement(CgWorkAlt),
     date: "Jan 2025 - Currently",
   },
